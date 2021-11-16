@@ -1,5 +1,7 @@
 # *ProCAncer-I-Ioannina-team*
 ## - Each repo refers to methodologies implemented by ProCAncer-I-Ioannina-team <br/>
+- Code inclusion in Python
+- Working on publicly available data throught [TCIA platform](https://www.cancerimagingarchive.net/)
 ### Team members <br/>
 - Nikolaos Tachos      ntachos@gmail.com
 - Eugenia Mylona       mylona.eugenia@gmail.com
